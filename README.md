@@ -18,7 +18,7 @@ Klarify is an AI Copilot to support both practitioners and clients on the therap
 
 ## Challenges
 - **Problem:** Integrating confusing technology into an app primarily catered towards non-tech savvy users such as therapists presented a lot of difficulties. User interviews would often result in therapists not understanding what was going on, how their data was being used, or how to interact with AI features.
-  - **Solution:** To refer to the core design philosphy of *less is more.* By recentering the designs around that one ideology, as well as frequently running user interviews or collecting feedback from actual users, major problems were able to be fixed before being pushed to production.
+- **Solution:** To refer to the core design philosphy of *less is more.* By recentering the designs around that one ideology, as well as frequently running user interviews or collecting feedback from actual users, major problems were able to be fixed before being pushed to production.
 
 ## Learnings
 - One of the biggest learnings from this contract was to apply a systems-level thinking to every feature. Early on, I frequently found myself designing a feature or flow without taking into consideration how this would fit into the overall flow of things, or match the design language. This resulted in countless iterations, as different features were designed individually and then brought together by creating a unified design system. However, had I applied this type of thinking earlier on in the project, it likely would have saved time and made the entire process more efficient.
