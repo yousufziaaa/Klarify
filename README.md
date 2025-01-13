@@ -26,4 +26,7 @@ Klarify is an AI Copilot to support both practitioners and clients on the therap
 ## Future Work
 - As Klarify grows both in terms of features and in terms of users, there's a lot more to be done. Continuing to work on this will allow me to design a whole set of new features and flows, especially as the company transitions their product offering from *semi-platform* to *full-platform*. 
 
+## Access to Work
+- As much of the work I've done for Klarify is not yet live, due to my NDA, I am unable to share it. If you'd like to explore the app, you can sign up for free at https://klarify.ca, or refer to the approved screenshots below. Further, you may contact me for prototypes, a video walkthrough, or more screenshots of the application.
+
 ## Screenshots
