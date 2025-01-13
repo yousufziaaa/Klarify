@@ -1,5 +1,7 @@
 # Overview
-Provided above will be screenshots from different features or sections of the Klarify app. As mentioned, as much of the work I've done for Klarify is not yet live, due to my NDA, I am unable to share it. If you'd like to explore the app, you can sign up for free at https://klarify.ca, or refer to the approved screenshots below. Further, you may contact me for prototypes, a video walkthrough, or more screenshots of the application.
+Provided above will be screenshots from different features or sections of the Klarify app. These are in no way representative of all of the screens designed, but aim to provide an overview of the design language and different features that have been implemented.
+
+As mentioned, as much of the work I've done for Klarify is not yet live, due to my NDA, I am unable to share it. If you'd like to explore the app, you can sign up for free at https://klarify.ca, or refer to the approved screenshots below. Further, you may contact me for prototypes, a video walkthrough, or more screenshots of the application.
 
 ## Contact
 **Email:** yousuf.zephyr@gmail.com
